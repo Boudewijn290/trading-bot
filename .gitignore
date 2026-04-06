@@ -1,0 +1,15 @@
+# Credentials — never commit these
+.env
+
+# Active position state
+position.json
+
+# Sentiment signal output
+signals/sentiment.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
