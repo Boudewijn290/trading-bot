@@ -1,0 +1,11 @@
+# HTTP client for Alpaca REST API
+requests>=2.31.0
+
+# Market data and indicator computation
+pandas>=2.0.0
+
+# Environment variable management (.env file support)
+python-dotenv>=1.0.0
+
+# Equity curve charts (optional — gracefully skipped if not installed)
+matplotlib>=3.7.0
